@@ -1,0 +1,15 @@
+# config.yaml
+input:
+  ground_truth_yolo_dir: 
+  ground_truth_image_dir: 
+  ground_truth_json_dir: 
+  ground_truth_coco_output: 
+
+  prediction_yolo_dir: 
+  prediction_image_dir: 
+  prediction_json_dir: 
+  prediction_coco_output: 
+
+image:
+  height:   
+  width: 
